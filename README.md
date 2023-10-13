@@ -1,5 +1,4 @@
 
-
    <h1>React Quote Generator 😄</h1>
 
   <h2>Live Demo 🌐</h2>

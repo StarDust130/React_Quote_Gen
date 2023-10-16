@@ -2,7 +2,6 @@
    <h1>React Quote Generator 😄</h1>
 
   <h2>Live Demo 🌐</h2>
-    
   <p>You can see a live demo of this project by visiting the following link: 👇</p>
     
    <p>
